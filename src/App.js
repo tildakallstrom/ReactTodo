@@ -1,4 +1,3 @@
-//import React from 'react';
 import './App.css';
 import TodoList from './TodoList.js'
 import React, { useState, useRef, useEffect } from 'react';

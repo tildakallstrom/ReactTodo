@@ -12,7 +12,6 @@ export default function Todo({ todo, toggleTodo }) {
                 } />
             {todo.name} 
                 </label>
-           
         </div>
     )
 }
